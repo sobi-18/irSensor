@@ -26,3 +26,6 @@ See ir_sensor.ino
 - GND → GND
 
  ## Demo
+ ![irSensor_hardware](https://github.com/user-attachments/assets/a629a13c-63c5-4d54-ba29-f02e69b2e902)
+
+![ir_sensor serial op](https://github.com/user-attachments/assets/e2686a55-4e74-4076-aa7e-939dbd6db1e5)
