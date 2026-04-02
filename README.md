@@ -26,4 +26,3 @@ See ir_sensor.ino
 - GND → GND
 
  ## Demo
- ![blinkLedDemo-gif](https://github.com/user-attachments/assets/c830abce-b3f2-4c29-a761-83a44a668b9f)
